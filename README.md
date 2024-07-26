@@ -1,9 +1,15 @@
 # 👩‍👧‍👧Woori_MySQL_ELK_mini_project
+
+## 개요
 Ubuntu 환경에서 Logstash를 활용해 MySQL과 ElasticSearch를 연동하고, Kibana를 활용해 타이타닉 데이터셋과 에스토니아 데이터셋의 분석을 진행하였습니다.
 
-🦕: **박정주, 백현경, 류채현** 
+## 🦕Team
+|<img src="https://avatars.githubusercontent.com/u/107031994?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/65991884?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/114724461?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|
+|Jeongju Park<br/>[@gorapang](https://github.com/gorapang)|[@RyuChaeHyun](https://github.com/RyuChaeHyun)|[@hyunkkkk](https://github.com/hyunkkkk)|
 
-🦕 **활용 데이터**
+---
+### 🦕 **활용 데이터**
 
 - Titanic Dataset
 (https://www.kaggle.com/competitions/titanic/data?select=train.csv)
@@ -12,7 +18,7 @@ Ubuntu 환경에서 Logstash를 활용해 MySQL과 ElasticSearch를 연동하고
 
 <br>
 
-🦕 **개발환경**
+### 🦕 **개발환경**
 ```
 Ubuntu 22.04
 MySQL  Ver 8.0.37-0ubuntu0.22.04.3 for Linux on x86_64 ((Ubuntu))
