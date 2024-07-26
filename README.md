@@ -1,7 +1,7 @@
 # 👩‍👧‍👧Woori_MySQL_ELK_mini_project
 
 ## 개요
-Ubuntu 환경에서 Logstash를 활용해 MySQL과 ElasticSearch를 연동하고, Kibana를 활용해 타이타닉 데이터셋과 에스토니아 데이터셋의 시각화 및 분석을 진행하였습니다.
+Ubuntu 환경에서 Logstash를 활용해 MySQL과 ElasticSearch를 연동하고, Kibana를 활용해 타이타닉 데이터셋과 에스토니아 데이터셋의 시각화 및 분석을 진행하였습니다. 
 
 ## 🦕Team
 |<img src="https://avatars.githubusercontent.com/u/107031994?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/65991884?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/114724461?v=4" width="150" height="150"/>|
